@@ -1,4 +1,9 @@
 # elm_learning
 
+### initialize project with 
 
-# initialize project with "elm init"
+- elm init
+
+### Run Project with 
+
+- elm reactor
